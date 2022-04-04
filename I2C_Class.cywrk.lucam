@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="I2C_Class\02-I2C_Master_Read">
+<ExpandedNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave\TopDesign</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\Pins</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\Analog</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\Clocks</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\Interrupts</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\DMA</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\System</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\Directives</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\Flash Security</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.cydwr\EEPROM</v>
+<v>I2C_Class\01-I2C_Slave\Header Files</v>
+<v>I2C_Class\01-I2C_Slave\Header Files\cyapicallbacks.h</v>
+<v>I2C_Class\01-I2C_Slave\Header Files\InterruptRoutines.h</v>
+<v>I2C_Class\01-I2C_Slave\Header Files\Logging.h</v>
+<v>I2C_Class\01-I2C_Slave\Header Files\Logging_Interface.h</v>
+<v>I2C_Class\01-I2C_Slave\Source Files</v>
+<v>I2C_Class\01-I2C_Slave\Source Files\InterruptRoutines.c</v>
+<v>I2C_Class\01-I2C_Slave\Source Files\Logging.c</v>
+<v>I2C_Class\01-I2C_Slave\Source Files\Logging_Interface.c</v>
+<v>I2C_Class\01-I2C_Slave\Source Files\main.c</v>
+<v>I2C_Class\01-I2C_Slave\Generated_Source</v>
+<v>I2C_Class\01-I2C_Slave\Generated_Source\PSoC5</v>
+<v>I2C_Class\02-I2C_Master_Read\TopDesign</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\Pins</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\Analog</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\Clocks</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\Interrupts</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\DMA</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\System</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\Directives</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\Flash Security</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.cydwr\EEPROM</v>
+<v>I2C_Class\02-I2C_Master_Read\Header Files</v>
+<v>I2C_Class\02-I2C_Master_Read\Header Files\cyapicallbacks.h</v>
+<v>I2C_Class\02-I2C_Master_Read\Header Files\ErrorCodes.h</v>
+<v>I2C_Class\02-I2C_Master_Read\Header Files\I2C_Interface.h</v>
+<v>I2C_Class\02-I2C_Master_Read\Header Files\LIS3DH.h</v>
+<v>I2C_Class\02-I2C_Master_Read\Source Files</v>
+<v>I2C_Class\02-I2C_Master_Read\Source Files\I2C_Interface.c</v>
+<v>I2C_Class\02-I2C_Master_Read\Source Files\main.c</v>
+<v>I2C_Class\02-I2C_Master_Read\Generated_Source</v>
+<v>I2C_Class\02-I2C_Master_Read\Generated_Source\PSoC5</v>
+<v>I2C_Class\02-I2C_Master_Write\TopDesign</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\Pins</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\Analog</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\Clocks</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\Interrupts</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\DMA</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\System</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\Directives</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\Flash Security</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.cydwr\EEPROM</v>
+<v>I2C_Class\02-I2C_Master_Write\Header Files</v>
+<v>I2C_Class\02-I2C_Master_Write\Header Files\cyapicallbacks.h</v>
+<v>I2C_Class\02-I2C_Master_Write\Header Files\ErrorCodes.h</v>
+<v>I2C_Class\02-I2C_Master_Write\Header Files\I2C_Interface.h</v>
+<v>I2C_Class\02-I2C_Master_Write\Header Files\LIS3DH.h</v>
+<v>I2C_Class\02-I2C_Master_Write\Source Files</v>
+<v>I2C_Class\02-I2C_Master_Write\Source Files\I2C_Interface.c</v>
+<v>I2C_Class\02-I2C_Master_Write\Source Files\main.c</v>
+<v>I2C_Class\02-I2C_Master_Write\Generated_Source</v>
+<v>I2C_Class\02-I2C_Master_Write\Generated_Source\PSoC5</v>
+<v>I2C_Class\03-I2C_Master_Advanced\TopDesign</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\Pins</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\Analog</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\Clocks</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\Interrupts</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\DMA</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\System</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\Directives</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\Flash Security</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.cydwr\EEPROM</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Header Files</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Header Files\cyapicallbacks.h</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Header Files\I2C_Interface.h</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Header Files\LIS3DH.h</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Source Files</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Source Files\I2C_Interface.c</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Source Files\main.c</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Generated_Source</v>
+<v>I2C_Class\03-I2C_Master_Advanced\Generated_Source\PSoC5</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\TopDesign</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\Pins</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\Analog</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\Clocks</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\Interrupts</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\DMA</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\System</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\Directives</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\Flash Security</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.cydwr\EEPROM</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Header Files</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Header Files\cyapicallbacks.h</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Header Files\I2C_Interface.h</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Header Files\LIS3DH.h</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Source Files</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Source Files\I2C_Interface.c</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Source Files\main.c</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Generated_Source</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave</v>
+<v>I2C_Class\02-I2C_Master_Read</v>
+<v>I2C_Class\02-I2C_Master_Write</v>
+<v>I2C_Class\03-I2C_Master_Advanced</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave</v>
+<v>I2C_Class\01-I2C_Slave\TopDesign</v>
+<v>I2C_Class\01-I2C_Slave\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\02-I2C_Master_Read</v>
+<v>I2C_Class\02-I2C_Master_Read\TopDesign</v>
+<v>I2C_Class\02-I2C_Master_Read\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\02-I2C_Master_Write</v>
+<v>I2C_Class\02-I2C_Master_Write\TopDesign</v>
+<v>I2C_Class\02-I2C_Master_Write\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\03-I2C_Master_Advanced</v>
+<v>I2C_Class\03-I2C_Master_Advanced\TopDesign</v>
+<v>I2C_Class\03-I2C_Master_Advanced\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\TopDesign</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave</v>
+<v>I2C_Class\01-I2C_Slave\TopDesign</v>
+<v>I2C_Class\01-I2C_Slave\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\02-I2C_Master_Read</v>
+<v>I2C_Class\02-I2C_Master_Read\TopDesign</v>
+<v>I2C_Class\02-I2C_Master_Read\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\02-I2C_Master_Write</v>
+<v>I2C_Class\02-I2C_Master_Write\TopDesign</v>
+<v>I2C_Class\02-I2C_Master_Write\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\03-I2C_Master_Advanced</v>
+<v>I2C_Class\03-I2C_Master_Advanced\TopDesign</v>
+<v>I2C_Class\03-I2C_Master_Advanced\TopDesign\TopDesign.cysch</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\TopDesign</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.gpdsc</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.rpt</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave_timing.html</v>
+<v>I2C_Class\02-I2C_Master_Read</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.gpdsc</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.rpt</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read_timing.html</v>
+<v>I2C_Class\02-I2C_Master_Write</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.gpdsc</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.rpt</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write_timing.html</v>
+<v>I2C_Class\03-I2C_Master_Advanced</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.gpdsc</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.rpt</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced_timing.html</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.gpdsc</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.rpt</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.gpdsc</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave.rpt</v>
+<v>I2C_Class\01-I2C_Slave\01-I2C_Slave_timing.html</v>
+<v>I2C_Class\02-I2C_Master_Read</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.gpdsc</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read.rpt</v>
+<v>I2C_Class\02-I2C_Master_Read\02-I2C_Master_Read_timing.html</v>
+<v>I2C_Class\02-I2C_Master_Write</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.gpdsc</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write.rpt</v>
+<v>I2C_Class\02-I2C_Master_Write\02-I2C_Master_Write_timing.html</v>
+<v>I2C_Class\03-I2C_Master_Advanced</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.gpdsc</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced.rpt</v>
+<v>I2C_Class\03-I2C_Master_Advanced\03-I2C_Master_Advanced_timing.html</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.gpdsc</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART.rpt</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\03-I2C_Master_Advanced_UART_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave</v>
+<v>I2C_Class\01-I2C_Slave\PSoC 5LP Architecture TRM</v>
+<v>I2C_Class\01-I2C_Slave\CY8C58LP Family Datasheet</v>
+<v>I2C_Class\01-I2C_Slave\System Reference Guides</v>
+<v>I2C_Class\01-I2C_Slave\System Reference Guides\cy_boot_v5_90</v>
+<v>I2C_Class\01-I2C_Slave\cy_clock_v2_20.pdf</v>
+<v>I2C_Class\01-I2C_Slave\cy_constant_v1_0</v>
+<v>I2C_Class\01-I2C_Slave\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>I2C_Class\01-I2C_Slave\cy_isr_v1_70.pdf</v>
+<v>I2C_Class\01-I2C_Slave\cy_pins_v2_20</v>
+<v>I2C_Class\01-I2C_Slave\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>I2C_Class\01-I2C_Slave\EZI2C_v2_0.pdf</v>
+<v>I2C_Class\01-I2C_Slave\PWM_v3_30.pdf</v>
+<v>I2C_Class\01-I2C_Slave\Timer_v2_80.pdf</v>
+<v>I2C_Class\01-I2C_Slave\UART_v2_50.pdf</v>
+<v>I2C_Class\02-I2C_Master_Read</v>
+<v>I2C_Class\02-I2C_Master_Read\PSoC 5LP Architecture TRM</v>
+<v>I2C_Class\02-I2C_Master_Read\CY8C58LP Family Datasheet</v>
+<v>I2C_Class\02-I2C_Master_Read\System Reference Guides</v>
+<v>I2C_Class\02-I2C_Master_Read\System Reference Guides\cy_boot_v6_0</v>
+<v>I2C_Class\02-I2C_Master_Read\cy_pins_v2_20</v>
+<v>I2C_Class\02-I2C_Master_Read\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>I2C_Class\02-I2C_Master_Read\I2C_v3_50.pdf</v>
+<v>I2C_Class\02-I2C_Master_Read\UART_v2_50.pdf</v>
+<v>I2C_Class\02-I2C_Master_Write</v>
+<v>I2C_Class\02-I2C_Master_Write\PSoC 5LP Architecture TRM</v>
+<v>I2C_Class\02-I2C_Master_Write\CY8C58LP Family Datasheet</v>
+<v>I2C_Class\02-I2C_Master_Write\System Reference Guides</v>
+<v>I2C_Class\02-I2C_Master_Write\System Reference Guides\cy_boot_v6_0</v>
+<v>I2C_Class\02-I2C_Master_Write\cy_pins_v2_20</v>
+<v>I2C_Class\02-I2C_Master_Write\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>I2C_Class\02-I2C_Master_Write\I2C_v3_50.pdf</v>
+<v>I2C_Class\02-I2C_Master_Write\UART_v2_50.pdf</v>
+<v>I2C_Class\03-I2C_Master_Advanced</v>
+<v>I2C_Class\03-I2C_Master_Advanced\PSoC 5LP Architecture TRM</v>
+<v>I2C_Class\03-I2C_Master_Advanced\CY8C58LP Family Datasheet</v>
+<v>I2C_Class\03-I2C_Master_Advanced\System Reference Guides</v>
+<v>I2C_Class\03-I2C_Master_Advanced\System Reference Guides\cy_boot_v6_0</v>
+<v>I2C_Class\03-I2C_Master_Advanced\cy_pins_v2_20</v>
+<v>I2C_Class\03-I2C_Master_Advanced\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>I2C_Class\03-I2C_Master_Advanced\I2C_v3_50.pdf</v>
+<v>I2C_Class\03-I2C_Master_Advanced\UART_v2_50.pdf</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\PSoC 5LP Architecture TRM</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\CY8C58LP Family Datasheet</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\System Reference Guides</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\System Reference Guides\cy_boot_v6_0</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\cy_pins_v2_20</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\I2C_v3_50.pdf</v>
+<v>I2C_Class\03-I2C_Master_Advanced_UART\UART_v2_50.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>I2C_Class</v>
+<v>I2C_Class\01-I2C_Slave</v>
+<v>I2C_Class\01-I2C_Slave\PSoC 5LP Architecture TRM</v>
+<v>I2C_Class\01-I2C_Slave\CY8C58LP Family Datasheet</v>
+<v>I2C_Class\01-I2C_Slave\System Reference Guides</v>
+<v>I2C_Class\01-I2C_Slave\System Reference Guides\cy_boot_v5_90</v>
+<v>I2C_Class\01-I2C_Slave\cy_clock_v2_20.pdf</v>
+<v>I2C_Class\01-I2C_Slave\cy_constant_v1_0</v>
+<v>I2C_Class\01-I2C_Slave\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>I2C_Class\01-I2C_Slave\cy_isr_v1_70.pdf</v>
+<v>I2C_Class\01-I2C_Slave\cy_pins_v2_20</v>
+<v>I2C_Class\01-I2C_Slave\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>I2C_Class\01-I2C_Slave\EZI2C_v2_0.pdf</v>
+<v>I2C_Class\01-I2C_Slave\PWM_v3_30.pdf</v>
+<v>I2C_Class\01-I2C_Slave\Timer_v2_80.pdf</v>
+<v>I2C_Class\01-I2C_Slave\UART_v2_50.pdf</v>
+<v>I2C_Class\02-I2C_Master_Read</v>
+<v>I2C_Class\02-I2C_Master_Read\PSoC 5LP Architecture TRM</v>
+<v>I2C_Class\02-I2C_Master_Read\CY8C58LP Family Datasheet</v>
+<v>I2C_Class\02-I2C_Master_Read\System Reference Guides</v>
+<v>I2C_Class\02-I2C_Master_Read\System Reference Guides\cy_boot_v6_0</v>
+<v>I2C_Class\02-I2C_Master_Read\cy_pins_v2_20</v>
+<v>I2C_Class\02-I2C_Master_Read\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>I2C_Class\02-I2C_Master_Read\I2C_v3_50.pdf</v>
+<v>I2C_Class\02-I2C_Master_Read\UART_v2_50.pdf</v>
+<v>I2C_Class\02-I2C_Master_Write</v>
+<v>I2C_Class\02-I2C_Master_Write\PSoC 5LP Architecture TRM</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="991, 372" SelectedTabbedMdiWindow="707fff5d-87d3-480f-b05c-489094eaf8bb"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="707fff5d-87d3-480f-b05c-489094eaf8bb" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
