@@ -22,4 +22,3 @@ Program the PSoC as I2C slave and interact with it using the Bridge Control Pane
 
 ## Project 3
 - Using your I2C interface functions, setup and read the built-in temperature sensor, convert the raw byte data and send it over UART to the PC
-- (Optional) Plot the data using the Bridge Control Panel
