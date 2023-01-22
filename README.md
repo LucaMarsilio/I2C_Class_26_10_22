@@ -1,4 +1,4 @@
-# PSoC I2C 26 - 10 - 22
+# PSoC I2C 26 - 10 - 23
 
 This repository contains the projects for the I2C class with PSoC Creator for the LTEBS course.
 
